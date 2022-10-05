@@ -91,3 +91,4 @@ The boilerplate consists of following tech stack and should run out of the box w
 If you have any other questions while working on the exercise feel free to reach out. We will be happy to help.
 
 Happy coding!
+# kate-innovations-frontend-assigment
