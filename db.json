@@ -1,0 +1,38 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "How long does Red Alert stays active after enabling?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam nulla pariatur."
+    },
+    {
+      "id": 2,
+      "question": "When should I replace Red Alert?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam nulla pariatur.\"\n"
+    },
+    {
+      "id": 3,
+      "question": "What is the benefit of Red Alert comparing to other home invasion alarms?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam nulla pariatur.\"\n"
+    },
+    {
+      "id": 4,
+      "question": "What guaranties does Red Alert give against burglary ?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam nulla pariatur.\"\n"
+    }
+  ],
+  "products": [
+    {
+      "name": "Warning Red Alert Basic",
+      "description": "Contains 3 door sensor, 2 door locks, 1 alarm and 1 hub",
+      "price": "59,99",
+      "image": "/products/product-2-transparent.png"
+    },
+    {
+      "name": "Warning Red Alert Premium",
+      "description": "Contains everything Red Alert Basic has, plus a weather prof camera",
+      "price": "109,99",
+      "image": "/products/product-1-transparent.png"
+    }
+  ]
+}
